@@ -1,12 +1,12 @@
 # Hola, Soy Juan Sebastián Valencia Gómez, un placer conocerte 👋
 
-💻 Analista de Datos con especialización en Herramientas de Inteligencia Artificial.
+👨‍💻 Analista de Datos con especialización en Herramientas de Inteligencia Artificial.
 
 🤖 Experto en el manejo de modelos LLM para el procesamiento y análisis de información.
 
-🐍 Amplia experiencia trabajando con Python para análisis de datos y automatización de procesos.
+💻 Amplia experiencia trabajando con Python para análisis de datos y automatización de procesos.
 
-🗄️ Conocimientos sólidos en MySQL para la gestión y optimización de bases de datos.
+🧠 Conocimientos sólidos en MySQL para la gestión y optimización de bases de datos.
 
 📊 Dominio de Power BI para la visualización y generación de reportes interactivos.
 
@@ -20,7 +20,7 @@
 ![Python](https://img.shields.io/badge/Lenguaje-Python-blue)
 ![MySQL](https://img.shields.io/badge/Base%20de%20Datos-MySQL-orange)
 ![PowerBI](https://img.shields.io/badge/Herramienta-Power%20BI-yellow)
-![Modelos%LLM](https://img.shields.io/badge/IA-Modelos%20LLM-green)
+![Modelos%LLM](https://img.shields.io/badge/Inteligencia%Artificial-Modelos%20LLM-green)
 
 ---
 
