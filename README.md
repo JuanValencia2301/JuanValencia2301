@@ -20,7 +20,7 @@
 ![Python](https://img.shields.io/badge/Lenguaje-Python-blue)
 ![MySQL](https://img.shields.io/badge/Base%20de%20Datos-MySQL-orange)
 ![PowerBI](https://img.shields.io/badge/Herramienta-Power%20BI-yellow)
-![Modelos%LLM](https://img.shields.io/badge/Inteligencia%Artificial-Modelos%20LLM-green)
+![Modelos LLM](https://img.shields.io/badge/Inteligencia%Artificial-Modelos%20LLM-green)
 
 ---
 
