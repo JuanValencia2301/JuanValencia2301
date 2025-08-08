@@ -17,10 +17,10 @@
 ---
 
 ### Herramientas en las que me destaco:
-![Python](https://img.shields.io/badge/Language-Python-blue)
-![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
-![PowerBI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
-![Modelos LLM](https://img.shields.io/badge/AI-LLM-green)
+![Python](https://img.shields.io/badge/Lenguaje-Python-blue)
+![MySQL](https://img.shields.io/badge/Base%20de%20Datos-MySQL-orange)
+![PowerBI](https://img.shields.io/badge/Herramienta-Power%20BI-yellow)
+![Modelos%LLM](https://img.shields.io/badge/IA-Modelos%20LLM-green)
 
 ---
 
@@ -29,7 +29,7 @@
 Puedes ponerte en contacto conmigo a través de:
 
 📧 [Correo Electrónico](mailto:juansebastianvalenciagomez280@gmail.com)  
-💼 [LinkedIn]([https://www.linkedin.com/in/juan-valencia-analisisdedatos/])  
+💼 [LinkedIn](https://www.linkedin.com/in/juan-valencia-analisisdedatos/)  
 
 ---
 
