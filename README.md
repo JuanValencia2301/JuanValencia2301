@@ -27,7 +27,7 @@
 
 ---
 
-### 🤝 Conéctate conmigo
+### 🤝 Conéctate conmigo:
 
 Puedes ponerte en contacto conmigo a través de:
 
@@ -36,6 +36,6 @@ Puedes ponerte en contacto conmigo a través de:
 
 ---
 
-### 📊 Mis estadísticas de GitHub
+### 📊 Mis estadísticas de GitHub:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=juanvalencia2301&show_icons=true&theme=gruvbox)
