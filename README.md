@@ -18,8 +18,8 @@
 
 ### Herramientas en las que me destaco:
 ![Python](https://img.shields.io/badge/Lenguaje-Python-blue)
-![MySQL](https://img.shields.io/badge/Base%20de%20Datos-MySQL-orange)
-![PowerBI](https://img.shields.io/badge/Herramienta-Power%20BI-yellow)
+![MySQL](https://img.shields.io/badge/Bases%20de%20Datos-MySQL-orange)
+![PowerBI](https://img.shields.io/badge/Visualizaci%C3%B3n%20de%20Datos-Power%20BI-yellow)
 ![ModelosLLM](https://img.shields.io/badge/Inteligencia%20Artificial-Modelos%20LLM-green)
 
 ---
