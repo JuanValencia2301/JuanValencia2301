@@ -1,14 +1,16 @@
 # Hola, Soy Juan Sebastián Valencia Gómez, un placer conocerte 👋
 
-👨‍💻 Analista de Datos con especialización en Herramientas de Inteligencia Artificial.
+👨‍💻 **Analista de Datos** con especialización en **Herramientas de Inteligencia Artificial**.
 
-🤖 Experto en el manejo de modelos LLM para el procesamiento y análisis de información.
+🤖 Experto en el manejo de **Modelos LLM** para el procesamiento y análisis de información.
 
-💻 Amplia experiencia trabajando con Python para análisis de datos y automatización de procesos.
+💻 Amplia experiencia trabajando con **Python** para análisis de datos y automatización de procesos.
 
-🧠 Conocimientos sólidos en MySQL para la gestión y optimización de bases de datos.
+🧠 Conocimientos sólidos en **MySQL** para la gestión y optimización de bases de datos.
 
-📊 Dominio de Power BI para la visualización y generación de reportes interactivos.
+📊 Dominio de **Power BI** para la visualización y generación de reportes interactivos.
+
+📝 Manejo de **draw.io** para la creación de diagramas entidad-relación (ER) y modelos relacionales.
 
 📜 Certificado como **Analista de Datos con Herramientas de Inteligencia Artificial** en **BeTek**.  
 
