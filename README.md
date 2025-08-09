@@ -10,7 +10,7 @@
 
 📊 Dominio de **Power BI** para la visualización y generación de reportes interactivos.
 
-📝 Manejo de **draw.io** para la creación de diagramas entidad-relación (ER) y modelos relacionales.
+📝 Manejo de **draw.io** para la creación de Diagramas Entidad-Relación (ER) y Modelos Relacionales.
 
 📜 Certificado como **Analista de Datos con Herramientas de Inteligencia Artificial** en **BeTek**.  
 
