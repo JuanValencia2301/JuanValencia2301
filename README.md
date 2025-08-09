@@ -18,7 +18,7 @@
 
 ---
 
-### Herramientas en las que me destaco:
+### 🛠️ Herramientas en las que me destaco:
 ![Python](https://img.shields.io/badge/Lenguaje-Python-blue)
 ![MySQL](https://img.shields.io/badge/Bases%20de%20Datos-MySQL-orange)
 ![PowerBI](https://img.shields.io/badge/Visualizaci%C3%B3n%20de%20Datos-Power%20BI-yellow)
@@ -27,7 +27,7 @@
 
 ---
 
-### Conéctate conmigo 🌐
+### 🤝 Conéctate conmigo
 
 Puedes ponerte en contacto conmigo a través de:
 
@@ -36,5 +36,6 @@ Puedes ponerte en contacto conmigo a través de:
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=juanvalencia2301&show_icons=true&theme=gruvbox)
+### 📊 Mis estadísticas de GitHub
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=juanvalencia2301&show_icons=true&theme=gruvbox)
