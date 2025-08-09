@@ -21,6 +21,7 @@
 ![MySQL](https://img.shields.io/badge/Bases%20de%20Datos-MySQL-orange)
 ![PowerBI](https://img.shields.io/badge/Visualizaci%C3%B3n%20de%20Datos-Power%20BI-yellow)
 ![ModelosLLM](https://img.shields.io/badge/Inteligencia%20Artificial-Modelos%20LLM-green)
+![DrawIO](https://img.shields.io/badge/Diagramas%20ER%20y%20Modelos%20Relacionales-draw.io-blue)
 
 ---
 
